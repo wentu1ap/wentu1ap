@@ -8,7 +8,7 @@
 - 🌱 I want to grow the list of technologies/tools that I use.
 - ⛳ My favorite hobby is golfing. 
 - ⌨ I also love custom mechanical keyboards.
-- 🎧 I am always listening to music! Check out my spotify and see if we have similar taste.   <a href="https://open.spotify.com/user/1283942508"><img alt="Spotify" title="Spotify" height="20" width="20" src="https://git.rockfin.com/wentu1ap/wentu1ap/blob/main/Files/spotify%20logo.svg"></a> 
+- 🎧 I am always listening to music! Check out my spotify and see if we have similar taste.   <a href="https://open.spotify.com/user/1283942508"><img alt="Spotify" title="Spotify" height="20" width="20" src="https://github.com/wentu1ap/wentu1ap/blob/main/Files/spotify%20logo.svg"></a> 
 
 
 ### Technologies/Tools I use:
