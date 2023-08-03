@@ -1,6 +1,6 @@
 ## Hi there, I am Drew. <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-  <img align="right" alt="GIF" src="https://git.rockfin.com/wentu1ap/wentu1ap/main/Files/BFC%20GIF.gif" width="225" height="225" />
+  <img align="right" alt="GIF" src="https://git.rockfin.com/wentu1ap/wentu1ap/main/Files/BFC GIF.gif" width="225" height="225" />
 
 ### I am a Husband, Father, and Data Engineer!
 - 🔭 I am a Data Engineer on the Vitals team.
