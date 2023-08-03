@@ -13,15 +13,15 @@
 
 ### Technologies/Tools I use:
 <p align="left">
-   <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://git.rockfin.com/wentu1ap/wentu1ap/blob/main/Files/aws-logo-square.png" alt="aws" width="50" height="50"/> </a>
-   <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://git.rockfin.com/wentu1ap/wentu1ap/blob/main/Files/PowerBI%20logo%20-%202.png" alt="powerbi" width="40" height="40"/> </a>
-   <a href="https://git.rockfin.com/wentu1ap" target="_blank"> <img src="https://git.rockfin.com/wentu1ap/wentu1ap/blob/main/Files/GIT%20Logo.svg" alt="GIT" width="70" height="40"/> </a>
-   <a href="https://www.sqlshack.com/overview-of-microsoft-sql-server-management-studio-ssms/" target="_blank"> <img src="https://git.rockfin.com/wentu1ap/wentu1ap/blob/main/Files/SSMS%20Logo.svg" alt="SSMS" width="40" height="40"/> </a>
+   <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/wentu1ap/wentu1ap/blob/main/Files/aws-logo-square.png" alt="aws" width="50" height="50"/> </a>
+   <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/wentu1ap/wentu1ap/blob/main/Files/PowerBI%20logo%20-%202.png" alt="powerbi" width="40" height="40"/> </a>
+   <a href="https://git.rockfin.com/wentu1ap" target="_blank"> <img src="https://github.com/wentu1ap/wentu1ap/blob/main/Files/GIT%20Logo.svg" alt="GIT" width="70" height="40"/> </a>
+   <a href="https://www.sqlshack.com/overview-of-microsoft-sql-server-management-studio-ssms/" target="_blank"> <img src="https://github.com/wentu1ap/wentu1ap/blob/main/Files/SSMS%20Logo.svg" alt="SSMS" width="40" height="40"/> </a>
 </p>
 
 #### Connect with me:
 <p align="left">
-   <a href="https://www.linkedin.com/in/wentu1ap/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://git.rockfin.com/wentu1ap/wentu1ap/blob/main/Files/linkedin%20logo%20-%201.png"></a>
+   <a href="https://www.linkedin.com/in/wentu1ap/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://github.com/wentu1ap/wentu1ap/blob/main/Files/linkedin%20logo%20-%201.png"></a>
 </p>
 
 
